@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Profile_QY.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Room 3345, Merrill Engineering Building (MEB)</p>
@@ -16,6 +16,7 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+cv_pdf: Resume.pdf
 ---
 I am a PhD candidate affialiated with [Kahlert School of Computing](https://www.cs.utah.edu/) at [the University of Utah](https://www.utah.edu/). Before that, I got a Master of Science degree in Mechanical Engineering from [University of Washington](https://www.washington.edu/) in 2019.
 
@@ -24,3 +25,4 @@ I have broad research interest in Probabilistic Machine Learning and High Perfor
 I am fortunate to work under supervision of [Dr. Shandian Zhe](https://users.cs.utah.edu/~zhe/).
 
 Feel free to connect me for collaboration in relative area.
+
